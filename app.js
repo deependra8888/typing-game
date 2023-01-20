@@ -1,5 +1,5 @@
 let text = document.getElementById('text');
-let word = document.getElementsByClassName('word')[0]
+let word = document.querySelector('.word');
 let score = document.getElementsByClassName('right')[0]
 let time = document.getElementsByClassName('left')[0];
 let box = document.getElementsByClassName('box')[0];
